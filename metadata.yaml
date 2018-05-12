@@ -11,6 +11,8 @@ covers:
 - cover_type: generated
   image_path: cover.png
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/16464#The-Ancient-Irish-Epic-Tale-T-in-B--C-alnge
 gutenberg_issued: '2005-08-07'
 gutenberg_type: Text
 identifiers:
